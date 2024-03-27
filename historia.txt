@@ -1,1 +1,3 @@
 hello im gabriel, i have three pets.
+im learning git and trying to add some commits
+
